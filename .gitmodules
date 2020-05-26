@@ -1,0 +1,6 @@
+[submodule "travel-planner-server-js"]
+	path = travel-planner-server-js
+	url = ./travel-planner-server-js
+[submodule "travel-planner-web"]
+	path = travel-planner-web
+	url = ./travel-planner-web
